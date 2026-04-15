@@ -19,8 +19,10 @@
 <img width="1470" height="956" alt="demo" src="https://github.com/user-attachments/assets/f6c42871-82f9-483b-8010-adcb79c37fa9" />
 
 ## 起動方法
+```bash
 pip install -r requirements.txt
 streamlit run app/app.py
+```
 
 ## デモ
 [NotionポートフォリオURL](https://www.notion.so/3435d4b2ca788032b0e0fc9f2f2b1ca3?source=copy_link)
