@@ -16,7 +16,6 @@
 - ダウンロード機能
 
 ## 画面イメージ
-<img width="1920" height="1080" alt="demo" src="https://github.com/user-attachments/assets/2df45284-c54d-4721-a566-1a6e04c85773" />
 
 ## 起動方法
 pip install -r requirements.txt
