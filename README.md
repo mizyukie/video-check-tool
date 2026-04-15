@@ -16,6 +16,6 @@
 - ダウンロード機能
 
 ## デモ
-NotionポートフォリオURL
+[NotionポートフォリオURL](https://www.notion.so/3435d4b2ca788032b0e0fc9f2f2b1ca3?source=copy_link)
 
 ※ ルール定義ファイルには実運用データが含まれるため、公開用リポジトリではサンプルデータに置き換えています。
